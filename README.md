@@ -4,7 +4,7 @@ This was the beginning of a project on using various machine learning models to 
 # Data Sources.
 The data comes from various sources.
   - Unemployment data: Bureau of Labor Statistics, Local Area Unemployment Statistics: [Link](https://www.bls.gov/lau/tables.htm#cntyaa)
-  - Demographic and Population data, US Census: [Link for County Population Changes](https://www2.census.gov/programs-surveys/popest/datasets/). Datasets used are cc-est-2020-alldata6, cc-est-2022-alldata, co-est2020-aldata, co-est-2022-alldata
+  - Demographic and Population data, US Census: [Link](https://www2.census.gov/programs-surveys/popest/datasets/). Datasets used are cc-est-2020-alldata6, cc-est-2022-alldata, co-est2020-aldata, co-est-2022-alldata
   - Election returns, 2016 - 2020, Replication Data for: Partisanship & Nationalization in American Elections: Evidence from Presidential, Senatorial, & Gubernatorial Elections in the U.S. Counties, 1872-2020: [Link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/DGUMFI)
   - Election returns, 2022, MIT Election Lab: [Link](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/YB60EJ)
 
