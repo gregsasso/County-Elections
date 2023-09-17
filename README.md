@@ -12,3 +12,11 @@ The data comes from various sources.
 The data in the main senate_county_wide.csv file is organized by county FIPS and election year. For example, if the FIPS is 1007, and the Year is 2016, then all data in that row corresponds with the 2016 election in county 1007. Columns with names ***_Year0 refer to data in the election year (ie, the unemployment rate in 2016). Columns with names ***_Year1 refer to data one year previous to the election (ie, the unemployment rate in 2015), and then similarly for ***_Year2. There are also columns denoting the percentage change between years. A column denoting CHANGE_YEAR_0, would be the percentage change in that variable from one year before the election (the relevant _YEAR1 value) to the year of the election (the relevant YEAR0 value). Similarly, CHANGE_YEAR_1 would be the change from 2 years before the election to 1 year before the election.
 
 TK: More complete description of the variables.
+
+# Jupyter Notebooks
+- county_ur: code to clean the unemployment data
+- county_dem: code to clean the county demographic data
+- county_pop: code to clean the county population data
+- county_merge: code to merge all 3 county data sources
+- senate: code to clean and merge senate county election data and then merge with county data
+- senate_models: analysis of the merged election and demographic data
